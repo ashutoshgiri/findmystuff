@@ -6,11 +6,17 @@
 
 •	The bot side and user side android app seamlessly communicate in real-time
 
+
+
 Project: Qualcomm mobile hack 2018
 
 Application: Find My Stuff
 
+
+
 Demo: https://www.youtube.com/watch?v=esDajKSeSno
+
+
 
 Participants:
 
