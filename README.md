@@ -1,4 +1,4 @@
-# findmystuff
+## findmystuff
 
 •	An android app on user and bot side to find an object inside a house or any space with the contextual information
 •	Identify objects in the moving frame using Computer Vision (SSD on Snapdragon Neural Engine)
@@ -9,7 +9,7 @@ Application: Find My Stuff
 
 Demo: https://www.youtube.com/watch?v=esDajKSeSno
 
-Partipants:
+Participants:
 
 Anitha Ramaswamy
 Ashutosh Giri
