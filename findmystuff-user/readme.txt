@@ -8,7 +8,7 @@ Client Server communication
 Project: Qualcomm mobile hack 2018
 Application: Find My Stuff
 
-Partipants:
+Participants:
 
 Anitha Ramaswamy
 Ashutosh Giri
