@@ -3,6 +3,7 @@ Features:
 
 Speech to Text
 Client Server communication
+Text to Speech
 
 
 Project: Qualcomm mobile hack 2018
